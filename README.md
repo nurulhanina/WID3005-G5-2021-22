@@ -5,3 +5,4 @@ This Project is based on the repo of https://github.com/leggedrobotics/darknet_r
 
 Dataset will be using the COCO dataset which is comprehensive that includes various groceries dataset
 
+During weight updates of COCO dataset, the wand is used in order to see the visualization of weight updates.
